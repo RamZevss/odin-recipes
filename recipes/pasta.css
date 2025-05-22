@@ -1,0 +1,25 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  background-color: black;
+  color: white;
+}
+.container {
+  width: 600px;
+  margin: 0 auto;
+}
+.header {
+  text-align: center;
+  border: 6px solid white;
+  padding: 10px;
+}
+.content {
+  border: 3px solid white;
+  padding: 5px;
+  margin-top: 10px;
+}
+
+.footer {
+  margin-left: 35px;
+  padding: 15px;
+  border: 12px solid red;
+}
